@@ -27,9 +27,11 @@ The application is built directly on the Windows API without a GUI framework.
 ## Course
 
 The complete Win32 API with C++ course is available at:
+
 https://downeg.ie/#win32-api-with-c-1-1
 
 The Win32Notepad project course is available at:
+
 https://downeg.ie/#win32-api-with-c-4-1
 
 The project course develops the application incrementally while explaining the Windows application model, Visual Studio workflow, message handling, controls, resources, application state, file I/O, debugging, and executable construction.
