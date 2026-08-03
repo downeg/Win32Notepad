@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Win32Notepad/Win32Notepad.vcxproj" Id="f7a7114e-99fc-4943-9997-929e4ba22be7" />
+</Solution>
